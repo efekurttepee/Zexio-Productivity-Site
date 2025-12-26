@@ -31,4 +31,4 @@ The application utilizes **Row Level Security (RLS)** via Supabase to ensure use
 
 ---
 
-© 2025 Zexio. Created with ❤️ by Efe.
+© 2025 Zexio.
